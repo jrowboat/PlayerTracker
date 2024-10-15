@@ -13,11 +13,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.UnitTests", "
 		{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210} = {C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerTracker.Contracts", "PlayerTracker.Contracts\PlayerTracker.Contracts.csproj", "{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.Contracts", "PlayerTracker.Contracts\PlayerTracker.Contracts.csproj", "{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerTracker.Services", "PlayerTracker.Services\PlayerTracker.Services.csproj", "{3EDB8F86-D286-4D56-808C-FEB071D235C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.Services", "PlayerTracker.Services\PlayerTracker.Services.csproj", "{3EDB8F86-D286-4D56-808C-FEB071D235C8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.Interfaces", "PlayerTracker.Interfaces\PlayerTracker.Interfaces.csproj", "{9E3F5D8A-327D-4CAA-9917-EB5E02BF6997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4982F98-752E-4DB5-987A-6B9A4C9B6939}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
