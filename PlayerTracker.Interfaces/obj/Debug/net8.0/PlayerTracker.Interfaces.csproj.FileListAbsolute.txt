@@ -1,0 +1,16 @@
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\bin\Debug\net8.0\PlayerTracker.Interfaces.deps.json
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\bin\Debug\net8.0\PlayerTracker.Interfaces.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\bin\Debug\net8.0\PlayerTracker.Interfaces.pdb
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\bin\Debug\net8.0\PlayerTracker.Contracts.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\bin\Debug\net8.0\PlayerTracker.Contracts.pdb
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.csproj.AssemblyReference.cache
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.AssemblyInfoInputs.cache
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.AssemblyInfo.cs
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.sourcelink.json
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.csproj.CopyComplete
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\refint\PlayerTracker.Interfaces.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\PlayerTracker.Interfaces.pdb
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Interfaces\obj\Debug\net8.0\ref\PlayerTracker.Interfaces.dll

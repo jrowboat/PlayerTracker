@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yCrrEy8IoBOav4JNTeqMG/ERq5xnJUix1Ffoh/8KCX02OQyqxTOCF9qqRlwu3n9y4oYY/+j+sDNcduW3GPDz0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrowen\\source\\repos\\construx-class-work\\PlayerTracker\\PlayerTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrowen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\jrowen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jrowen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

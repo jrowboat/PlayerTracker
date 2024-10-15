@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PlayerTracker.Interfaces/1.0.0": {
+        "dependencies": {
+          "PlayerTracker.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "PlayerTracker.Interfaces.dll": {}
+        }
+      },
+      "PlayerTracker.Contracts/1.0.0": {
+        "runtime": {
+          "PlayerTracker.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayerTracker.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerTracker.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

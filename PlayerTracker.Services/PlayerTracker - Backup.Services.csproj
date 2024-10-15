@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PlayerTracker.Contracts\PlayerTracker.Contracts.csproj" />
+	  <ProjectReference Include="..\PlayerTracker.Interfaces\PlayerTracker.Interfaces.csproj" />
+	  <ProjectReference Include="..\PlayerTracker.Services\PlayerTracker.Services.csproj" />
+  </ItemGroup>	<ItemGroup>
+		<ProjectReference Include="..\PlayerTracker.Contracts\PlayerTracker.Contracts.csproj" />
+		<ProjectReference Include="..\PlayerTracker.Interfaces\PlayerTracker.Interfaces.csproj" />
+		<ProjectReference Include="..\PlayerTracker.Services\PlayerTracker.Services.csproj" />
+	
+
+  <ItemGroup>
+    <ProjectReference Include="..\PlayerTracker.Contracts\PlayerTracker.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\bin\Debug\net8.0\PlayerTracker.Contracts.deps.json
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\bin\Debug\net8.0\PlayerTracker.Contracts.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\bin\Debug\net8.0\PlayerTracker.Contracts.pdb
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.AssemblyInfoInputs.cache
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.AssemblyInfo.cs
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.sourcelink.json
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\refint\PlayerTracker.Contracts.dll
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\PlayerTracker.Contracts.pdb
+C:\Users\jrowen\source\repos\construx-class-work\PlayerTracker\PlayerTracker.Contracts\obj\Debug\net8.0\ref\PlayerTracker.Contracts.dll

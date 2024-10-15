@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "14doyHyZ3suYOXSK/0p43wj0kpPGBRKbhtXxJUjPX8PieGNLPPmHy5igXgJbnpcn3vD0KDdLFtNN1X9JvIeJ2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrowen\\source\\repos\\construx-class-work\\PlayerTracker\\PlayerTracker.Services\\PlayerTracker.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrowen\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\jrowen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

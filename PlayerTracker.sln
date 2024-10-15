@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.App", "PlayerTracker.App\PlayerTracker.App.csproj", "{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4F5BD698-B6BE-4768-ABF7-8D71C7E57958} = {4F5BD698-B6BE-4768-ABF7-8D71C7E57958}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.UnitTests", "PlayerTracker.UnitTests\PlayerTracker.UnitTests.csproj", "{57740FF5-3C8A-4321-A29F-3C964B3BE060}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210} = {C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerTracker.Contracts", "PlayerTracker.Contracts\PlayerTracker.Contracts.csproj", "{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerTracker.Services", "PlayerTracker.Services\PlayerTracker.Services.csproj", "{3EDB8F86-D286-4D56-808C-FEB071D235C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTracker.Interfaces", "PlayerTracker.Interfaces\PlayerTracker.Interfaces.csproj", "{9E3F5D8A-327D-4CAA-9917-EB5E02BF6997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78B409F-9D6D-49C1-8B1D-8E7DD0C3A210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57740FF5-3C8A-4321-A29F-3C964B3BE060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57740FF5-3C8A-4321-A29F-3C964B3BE060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57740FF5-3C8A-4321-A29F-3C964B3BE060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57740FF5-3C8A-4321-A29F-3C964B3BE060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5BD698-B6BE-4768-ABF7-8D71C7E57958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDB8F86-D286-4D56-808C-FEB071D235C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDB8F86-D286-4D56-808C-FEB071D235C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDB8F86-D286-4D56-808C-FEB071D235C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDB8F86-D286-4D56-808C-FEB071D235C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3F5D8A-327D-4CAA-9917-EB5E02BF6997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3F5D8A-327D-4CAA-9917-EB5E02BF6997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3F5D8A-327D-4CAA-9917-EB5E02BF6997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3F5D8A-327D-4CAA-9917-EB5E02BF6997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803ED263-E793-4C33-B286-72FADEF24F6E}
+	EndGlobalSection
+EndGlobal
